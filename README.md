@@ -10,13 +10,6 @@ Ambitious Machine Learning/Deep Learning Engineer proficient in leveraging data 
 
 ⚡As an adaptive fast learner who is not afraid of experimenting and exploring new horizons, I have a keen understanding of Deep Learning and Machine Learning as an evolving, disruptive field where we need to adapt with the fast evolving technology which involves being able to learn new concepts but also unlearn the old ones if necessary.
  
-### ✅ Skill stack:
-🔸<b> Main skills </b> : Data science, Machine learning, Deep learning, Natural language Processing (NLP) , Computer Vision. <br/>
-🔸<b> Languages </b> : Python, SQL, Java </br>
-🔸<b> Frame works </b> : TensorFlow, Pytorch, Keras, Scikit-Learn, Spark for ML <br/>
-🔸<b> Developer tools </b> : StreamLit, Heroku, Flask, AWS-EC2 for deployment </br>
-🔸<b> Libraries </b> : Pandas, NumPy, Matplotlib, Dask, NLTK </br>
-
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
