@@ -2,11 +2,10 @@
 
 <!--**Rohan-Thoma/Rohan-Thoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.** -->
 
-Ambitious Machine Learning/Deep Learning Engineer proficient in leveraging data for strategic decision-making and generating impactful applications and insights using data analysis, machine learning and deep learning along with expertise in computer vision and natural language processing. 
+Ambitious Machine Learning/Deep Learning Engineer proficient in leveraging data for strategic decision-making and generating impactful applications and insights using data analysis, machine learning and deep learning with full-stack expertise in computer vision and natural language processing. 
 
 😎 Find the link to my LinkedIn Profile here : [LinkedIn](https://linkedin.com/in/rohan-vailala-thoma) <br/>
 📝 Find the link to all my blogs here : [Medium](https://medium.com/@rohanvailalathoma) <br/>
-🏆 Experience the interactive web app deployed for an Ecommerce Deep learning project : [Streamlit webapp](https://share.streamlit.io/rohan-thoma/ecommerce-product-image-classification) <br/>
 
 ⚡As an adaptive fast learner who is not afraid of experimenting and exploring new horizons, I have a keen understanding of Deep Learning and Machine Learning as an evolving, disruptive field where we need to adapt with the fast evolving technology which involves being able to learn new concepts but also unlearn the old ones if necessary.
  
